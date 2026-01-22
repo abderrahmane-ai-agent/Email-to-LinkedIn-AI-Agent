@@ -14,3 +14,6 @@ This agent automates the extraction of insights from incoming emails, processes 
 2. *Filter:* Extracts body text and cleans HTML.
 3. *Transform:* Groq rewrites the core insight into a LinkedIn-optimized post.
 4. *Load:* Appends the draft to a Notion database for final review.
+
+![Workflow Screenshot]
+(Screenshot.png)
